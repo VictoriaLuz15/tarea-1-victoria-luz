@@ -1,0 +1,924 @@
+CharName
+Henry V                                     15428
+Falstaff                                    14906
+Hamlet                                      12291
+Duke of Gloucester                           9526
+Antony                                       8849
+Iago                                         8643
+Henry IV                                     8426
+Vincentio                                    7094
+Henry VI                                     7049
+Richard III                                  7034
+Queen Margaret                               7024
+Coriolanus                                   6776
+Timon                                        6669
+Othello                                      6504
+Richard Plantagenet (Duke of Gloucester)     6294
+King Richard II                              6208
+Lear                                         5943
+Rosalind                                     5909
+Titus Andronicus                             5877
+Earl of Warwick                              5818
+Macbeth                                      5602
+Brutus                                       5601
+Helena                                       5514
+Portia                                       5513
+Prospero                                     5213
+Leontes                                      5089
+Duke of Buckingham                           5045
+Biron                                        4970
+Cleopatra                                    4942
+Romeo                                        4873
+Petruchio                                    4835
+Hotspur (Henry Percy)                        4819
+Pericles                                     4772
+Claudius                                     4641
+Imogen                                       4605
+Hostess Quickly                              4544
+Juliet                                       4499
+Menenius Agrippa                             4429
+Philip the Bastard                           4221
+King Edward IV (Plantagenet)                 4144
+Troilus                                      4096
+Clown                                        4031
+Antonio                                      4010
+Cassius                                      3959
+King of France                               3950
+Benedick                                     3808
+Lord Talbot/Earl of Shrewsbury               3739
+Earl of Suffolk                              3729
+Ulysses                                      3641
+Henry VIII                                   3568
+Posthumus Leonatus                           3563
+Ferdinand                                    3530
+Messenger                                    3519
+King John                                    3408
+Cardinal Wolsey                              3353
+Proteus                                      3349
+Octavius                                     3313
+Iachimo                                      3307
+Pandarus                                     3288
+Angelo                                       3123
+Isabella                                     3108
+Parolles                                     3049
+Queen Katharine                              3026
+Edgar                                        3001
+Valentine                                    2990
+Shylock                                      2942
+Claudio                                      2927
+Aaron                                        2904
+Gower                                        2892
+Queen Elizabeth                              2830
+Desdemona                                    2827
+Friar Laurence                               2819
+Sir Toby Belch                               2789
+Polonius                                     2767
+Earl of Kent                                 2715
+Leonato                                      2714
+Earl of Glouchester                          2654
+Bassanio                                     2643
+Marcus Andronicus                            2631
+Viola                                        2625
+Mistress Page                                2620
+Ford                                         2617
+Belarius                                     2613
+Chorus                                       2585
+Domitius Enobarus                            2570
+Fluellen                                     2542
+Don Pedro                                    2518
+Paulina                                      2513
+Volumnia                                     2501
+Julia                                        2498
+Autolycus                                    2488
+Feste                                        2475
+Edmund                                       2459
+Robert Shallow                               2447
+Nurse                                        2445
+Touchstone                                   2439
+Orlando                                      2437
+First Lord                                   2416
+Lucio                                        2413
+Olivia                                       2407
+Beatrice                                     2395
+Earl of Northumberland                       2388
+Thersites                                    2376
+Tranio                                       2349
+Edmund of Langley                            2317
+Lafeu                                        2310
+George Plantagenet (Duke of Clarence)        2290
+Pompey                                       2284
+Malvolio                                     2271
+Capulet                                      2247
+Princess of France                           2247
+Countess                                     2230
+Queen                                        2228
+Jack Cade                                    2213
+Cressida                                     2188
+Horatio                                      2181
+Constance                                    2180
+Celia                                        2176
+Mercutio                                     2165
+Tullus Aufidius                              2161
+Adriana                                      2157
+Camillo                                      2157
+Antipholus of Syracuse                       2147
+Dromio of Syracuse                           2142
+Joan la Pucelle                              2131
+Pistol                                       2130
+Cloten                                       2122
+Bertram                                      2107
+Bottom                                       2095
+Cymbeline                                    2075
+Cominius                                     2062
+Tamora                                       2046
+Cassio                                       2034
+Polixenes                                    2030
+Second Lord                                  2020
+Fool                                         2015
+Emilia                                       2011
+Don Adriano de Armado                        1990
+Lady Macbeth                                 1969
+First Gentleman                              1956
+Sicinius Velutus                             1943
+Jaques (lord)                                1915
+Launce                                       1893
+Duchess of York                              1883
+Demetrius                                    1881
+Servant                                      1860
+Boyet                                        1852
+Apemantus                                    1846
+Sir Hugh Evans                               1823
+Antipholus of Ephesus                        1822
+Katherina                                    1818
+Lord Hastings                                1804
+Theseus                                      1790
+Flavius                                      1783
+Sebastian                                    1765
+Lucius                                       1748
+Archbishop of Canterbury                     1692
+Orsino                                       1680
+Saturninus                                   1675
+Oberon                                       1671
+Lord                                         1658
+Duke of Norfolk                              1657
+Hortensio                                    1651
+Page                                         1636
+Gratiano                                     1635
+Junius Brutus                                1631
+Hermione                                     1630
+Lord Clifford                                1621
+Duke of Exeter                               1612
+Winchester                                   1601
+Hector                                       1592
+Costard                                      1578
+John of Gaunt                                1576
+Duke of Milan                                1569
+Maria                                        1567
+Pisanio                                      1566
+Dogberry                                     1552
+Malcolm                                      1544
+King Phillip                                 1540
+Goneril                                      1539
+Grumio                                       1518
+Laertes                                      1504
+First Senator                                1492
+First Citizen                                1489
+Speed                                        1482
+Launcelot Gobbo                              1480
+Earl of Westmoreland                         1475
+Regan                                        1466
+Earl of Worcester                            1459
+Lucentio                                     1454
+Escalus                                      1452
+Florizel                                     1450
+Stephano                                     1427
+Lysander                                     1425
+Puck                                         1423
+Rosaline                                     1423
+Duke                                         1420
+Caliban                                      1414
+Agamemnon                                    1404
+Gremio                                       1397
+Archbishop Scroop                            1394
+Dromio of Ephesus                            1386
+Achilles                                     1369
+Baptista Minola                              1368
+Lorenzo                                      1364
+Mistress Ford                                1362
+Second Gentleman                             1322
+Holofernes                                   1320
+Hermia                                       1312
+Paris                                        1306
+Marina                                       1302
+Gertrude                                     1300
+Cardinal Pandulph                            1285
+Lady Anne                                    1283
+Ophelia                                      1263
+Gonzalo                                      1247
+Salisbury                                    1241
+Sir Andrew Aguecheek                         1225
+Lewis                                        1223
+Ariel                                        1222
+Alcibiades                                   1218
+Macduff                                      1209
+Oliver                                       1201
+Titania                                      1198
+Benvolio                                     1189
+Provost                                      1186
+Slender                                      1184
+Simonides                                    1181
+Nestor                                       1174
+Guiderius                                    1172
+Third Gentleman                              1167
+Silvia                                       1163
+Moth                                         1152
+Richmond (Henry VII)                         1144
+Lord Chamberlain                             1136
+Host                                         1129
+Duke of Albany                               1127
+Lord Chief Justice                           1125
+Aegeon                                       1124
+Diana                                        1123
+Gentleman                                    1118
+Old Shepherd                                 1105
+Thomas Mowbray                               1105
+Earl of Salisbury                            1092
+Charles, King of France                      1089
+Casca                                        1085
+Edward Poins                                 1077
+Aeneas                                       1070
+Brabantio                                    1063
+Caesar                                       1063
+Hubert de Burgh                              1062
+Archbishop Cranmer                           1058
+Captain                                      1056
+Duke/Earl of Somerset                        1029
+Borachio                                     1015
+Hero                                         1008
+Eleanor                                      1006
+Arthur                                       1003
+Quince                                        978
+Arviragus                                     969
+Ross                                          944
+Miranda                                       940
+Helicanus                                     940
+Duke of Burgundy                              934
+Perdita                                       933
+Constable of France                           933
+Lewis the Dauphin                             921
+Prince John                                   910
+Lady Capulet                                  908
+Don John                                      906
+Boy                                           895
+First Soldier                                 883
+Fabian                                        880
+Roderigo                                      872
+Third Citizen                                 871
+Bawd                                          867
+Cordelia                                      864
+Cleon                                         860
+Doctor Caius                                  856
+Lord Bardolph                                 851
+Trinculo                                      845
+Diomedes                                      845
+Biondello                                     838
+Katharine                                     835
+Bianca                                        830
+Banquo                                        824
+Antigonus                                     821
+Salarino                                      818
+Prince of Morocco                             818
+Sir William Stanley                           817
+Lady Percy                                    817
+Prince Edward                                 799
+Luciana                                       794
+Alonso                                        790
+Duke of Cornwall                              782
+Cerimon                                       776
+First Clown                                   771
+Fenton                                        769
+Caius Lucius                                  749
+Lysimachus                                    741
+Solinus                                       736
+Rosencrantz                                   728
+Nerissa                                       724
+Duke of Aumerle                               721
+Phebe                                         721
+Vernon                                        715
+Bardolph                                      709
+Father's Ghost                                694
+Dionyza                                       681
+First Murderer                                681
+Gardiner                                      680
+Mariana                                       680
+Jessica                                       680
+Soothsayer                                    678
+Doll Tearsheet                                676
+Boult                                         675
+Duke of Bedford                               670
+Edmund Mortimer                               666
+Morton                                        663
+Nym                                           660
+Porter                                        652
+Duke of Suffolk                               649
+Charmian                                      638
+Williams                                      628
+Glendower                                     626
+Pembroke                                      625
+Elbow                                         609
+Sir William Lucy                              607
+Second Senator                                605
+Prince Escalus                                604
+Friar Francis                                 602
+Thaisa                                        596
+Griffith                                      581
+Second Murderer                               578
+Lucilius                                      577
+Aemilia                                       569
+Lucetta                                       568
+Christopher Sly                               564
+Dumain                                        564
+Corin                                         562
+Margaret                                      559
+Cornelius                                     557
+Silvius                                       555
+Ajax                                          554
+All                                           553
+Frederick                                     548
+Earl of Surrey                                545
+Lodovico                                      540
+Widow                                         538
+Sir Nathaniel                                 533
+King Lewis XI                                 531
+Lennox                                        531
+Oswald                                        529
+Adam                                          525
+Longaville                                    523
+Prince of Arragon                             513
+Duke of Venice                                506
+Lord (Earl) Rivers                            501
+Bishop of Carlisle                            501
+Antiochus                                     500
+Sir Thomas Lovell                             489
+Duncan                                        489
+Peter                                         479
+Painter                                       477
+Bassianus                                     477
+Duchess of Gloucester                         476
+Old Lady                                      475
+Lavinia                                       474
+Reignier                                      468
+Sir William Catesby                           464
+Surveyor                                      464
+First Servant                                 459
+Mortimer                                      458
+Doctor                                        454
+Salanio                                       452
+First Gaoler                                  451
+Marcellus                                     450
+Lord Mowbray                                  444
+Alexander Iden                                442
+Second Citizen                                433
+Montano                                       433
+Menas                                         433
+Lepidus                                       430
+Balthasar                                     429
+Chiron                                        428
+Queen Elinor                                  428
+Gardener                                      427
+Patroclus                                     417
+Soldier                                       416
+Anne Bullen                                   412
+Second Servant                                407
+Third Servingman                              406
+Montjoy                                       405
+Titus Lartius                                 400
+Cardinal Campeius                             391
+Thurio                                        390
+Pedant                                        387
+Charles                                       382
+Le Beau                                       379
+First Witch                                   378
+Boatswain                                     376
+Flute                                         374
+Blunt                                         374
+Young Clifford                                371
+Agrippa                                       370
+Lord Say                                      369
+Man                                           368
+Duke of Alencon                               368
+Ursula                                        368
+Officer                                       367
+Osric                                         363
+Young Lucius                                  361
+Son                                           360
+Earl of Douglas                               355
+Countess of Auvergne                          354
+Gadshill                                      353
+Valeria                                       353
+Steward                                       350
+Iris                                          346
+Lord Sands                                    343
+Simple                                        343
+Blanch                                        341
+Decius Brutus                                 332
+Guildenstern                                  329
+First Fisherman                               328
+Montague                                      325
+Duke of Orleans                               323
+Panthino                                      318
+Dolabella                                     314
+Sir Robert Brakenbury                         313
+Melun                                         311
+Cromwell                                      310
+Rumour                                        310
+Sergeant                                      307
+Earl Oxford                                   306
+Chatillon                                     304
+Old Gobbo                                     303
+Egeus                                         302
+Courtezan                                     301
+Davy                                          300
+Philario                                      300
+Lady Macduff                                  299
+Lucullus                                      296
+Lord Mayor of London                          296
+Marquess of Montague                          293
+Sir Stephen Scroop                            293
+Ventidius                                     290
+Eros                                          289
+Senator                                       286
+Post                                          286
+First Watchman                                285
+Bushy                                         282
+Tybalt                                        282
+Hecate                                        280
+Sir James Tyrrel                              278
+Scarus                                        278
+Friar Peter                                   275
+Time                                          274
+First Officer                                 274
+Second Merchant                               273
+Second Servingman                             271
+Silence                                       267
+Alexander                                     264
+Sampson                                       263
+Cassandra                                     263
+Dick the Butcher                              261
+Tintinius                                     257
+Hippolyta                                     256
+Messala                                       256
+Conrade                                       256
+First Servingman                              254
+Lymoges                                       253
+Father John Hume                              252
+Martius                                       247
+Calchas                                       247
+Green                                         246
+Dull                                          246
+Quintus                                       245
+Marullus                                      242
+First Stranger                                238
+Mistress Overdone                             238
+Lord Chancellor                               238
+Roman                                         237
+Octavia                                       237
+Virgilia                                      236
+Sicilius Leonatus                             235
+Second Fisherman                              233
+Bastard of Orleans                            232
+Mecaenas                                      231
+Herald                                        231
+Prince Henry                                  228
+Bolingbroke                                   227
+Father                                        224
+Lord Fitzwater                                223
+Pandar                                        222
+Flaminius                                     221
+Sempronius                                    220
+Thaliard                                      216
+Proculeius                                    214
+Third Outlaw                                  213
+General                                       213
+Siward                                        211
+Lord Marshal                                  211
+Bernardo                                      210
+Alexas                                        210
+Calpurnia                                     208
+Old Athenian                                  208
+Second Officer                                207
+Macmorris                                     206
+Shepherd                                      205
+Richard Plantagenet the Younger               205
+Balthazar                                     203
+Sir Richard Ratcliff                          201
+Fairy                                         201
+Edmond, Earl of Rutland                       200
+Second Messenger                              200
+Eglamour                                      199
+Gentlewoman                                   198
+Basset                                        196
+Verges                                        191
+Simpcox                                       190
+Dion                                          190
+Queen Isabel                                  189
+Faulconbridge                                 189
+Fortinbras                                    189
+Philostrate                                   189
+Anne Page                                     188
+Fourth Citizen                                187
+Thyreus                                       186
+Bishop of Ely                                 185
+Second Watchman                               185
+Sir Pierce of Exton                           183
+Frenchman                                     182
+Lord Ross                                     181
+First Carrier                                 180
+Thomas Horner                                 179
+Curtis                                        178
+Helen                                         177
+Third Servant                                 177
+Bagot                                         177
+Archidamus                                    176
+Citizens                                      175
+Salerio                                       174
+Alice                                         170
+Canidius                                      170
+Bates                                         169
+Priest                                        167
+Ceres                                         166
+Second Goth                                   166
+Prince Thomas                                 165
+Francis                                       164
+Volsce                                        163
+Snout                                         161
+First Outlaw                                  160
+Gregory                                       160
+Iras                                          160
+Jupiter                                       159
+Mamillius                                     159
+Dercetas                                      159
+First Keeper                                  158
+Walter Whitmore                               158
+Aemilius                                      157
+Second Page                                   157
+First Player                                  156
+Voltemand                                     156
+Marquis of Dorset                             155
+Servilius                                     154
+Third Fisherman                               153
+Chamberlain                                   153
+Audrey                                        153
+John Holland                                  151
+Leonine                                       149
+Second Commoner                               149
+Cleomenes                                     147
+Old Man                                       147
+Artemidorus                                   146
+Second Carrier                                145
+Mopsa                                         145
+Philo                                         145
+Master-Gunner                                 145
+Abhorson                                      144
+Duke of Bourbon                               143
+Angus                                         142
+Grandpre                                      142
+Clerk                                         141
+Third Witch                                   140
+Francisco                                     140
+Priam                                         140
+Peto                                          139
+Caphis                                        138
+Second Witch                                  136
+First Ambassador                              134
+Amiens                                        134
+Cinna                                         133
+Publius                                       133
+Jaques (son)                                  132
+Smith the Weaver                              131
+Hymen                                         130
+Second Keeper                                 128
+Lady Faulconbridge                            127
+Duke of Florence                              125
+Snug                                          125
+Pindarus                                      125
+Metellus Cimber                               125
+George Bevis                                  123
+Scrivener                                     123
+Travers                                       120
+Barnardine                                    120
+Mardian                                       120
+Tailor                                        119
+First Guard                                   119
+Sir Humphrey Stafford                         117
+Prince Humphrey                               117
+First Merchant                                117
+Third Lord                                    117
+Andromache                                    117
+Lord Abergavenny                              116
+Ligarius                                      113
+Earl of Cambridge                             111
+Lieutenant                                    111
+Peter Bullcalf                                110
+Knight                                        109
+Watchman                                      108
+Hortensius                                    108
+Euphronius                                    108
+Sexton                                        107
+Cinna the Poet                                106
+Robin                                         106
+French Soldier                                106
+English Herald                                105
+Lord Willoughby                               104
+Second Outlaw                                 104
+Pinch                                         104
+Jamy                                          103
+Lord Grey                                     102
+Jaquenetta                                    102
+Friar John                                    101
+Third Watchman                                100
+Tubal                                          98
+Second Clown                                   98
+Francis Feeble                                 97
+Lady                                           95
+Titus                                          95
+Starveling                                     95
+Both                                           95
+Groom                                          95
+First Musician                                 95
+Sheriff                                        95
+Thomas Rotherham                               93
+Ralph Mouldy                                   93
+French Herald                                  91
+Sir Thomas Grey                                91
+Lord Scroop                                    91
+First Bandit                                   90
+Brandon                                        88
+Second Soldier                                 87
+Norwegian Captain                              87
+Vaux                                           85
+Menelaus                                       84
+Aedile                                         83
+First Goth                                     82
+Curan                                          81
+Third Conspirator                              81
+Second British Captain                         80
+Mariner                                        80
+Keeper                                         79
+Francisca                                      78
+Duke of Surrey                                 78
+Philotus                                       78
+Fourth Messenger                               77
+Bona                                           77
+Caithness                                      76
+First Beadle                                   76
+Gaoler                                         76
+Cardinal Bourchier                             76
+First Huntsman                                 76
+Servant 1                                      76
+Sir Henry Guildford                            76
+Lychorida                                      75
+Third Serving-Man                              74
+Clitus                                         74
+Princes                                        74
+Abbot                                          73
+Menteith                                       72
+Roman Captain                                  72
+Luce                                           71
+First Sailor                                   71
+Lord Berkeley                                  70
+Dorcas                                         67
+First Lady                                     67
+Rambures                                       67
+Silius                                         67
+Capucius                                       66
+Sailor                                         66
+Reynaldo                                       66
+Second Brother                                 66
+First Petitioner                               66
+Lord Scales                                    65
+Merchant                                       65
+Cicero                                         65
+First Brother                                  64
+Harcourt                                       64
+Adrian                                         64
+Sir John Colville                              63
+Donalbain                                      63
+Sir John Stanley                               62
+Second Drawer                                  62
+Mother                                         61
+Trebonius                                      61
+Spirit                                         61
+Doctor Butts                                   61
+Tyrian Sailor                                  60
+Froth                                          60
+First Conspirator                              59
+Strato                                         59
+Christopher Urswick                            59
+Lord Bigot                                     57
+Jeweller                                       57
+Sir John Fastolfe                              56
+Simpcox's Wife                                 56
+Governor of Harfleur                           56
+Young Cato                                     56
+Fang                                           55
+Apothecary                                     54
+Rugby                                          54
+Sir Michael                                    53
+Third Soldier                                  53
+Sir Thomas Erpingham                           53
+Bishop Lincoln                                 53
+Third Messenger                                52
+First Serving-Man                              51
+Gallus                                         50
+Cupid                                          49
+Second Stranger                                49
+John Morton                                    48
+Second Herald                                  48
+First Herald                                   48
+William                                        47
+William Stafford                               47
+Lords                                          46
+Young Siward                                   46
+Crier                                          44
+Mayor of York                                  44
+Third Bandit                                   44
+Juno                                           43
+Third Murderer                                 43
+Curio                                          42
+Mutius                                         42
+Attendant                                      42
+First Page                                     41
+Ambassador                                     41
+Girl                                           40
+Second Petitioner                              40
+First Sentinel                                 40
+Second Conspirator                             40
+Servant 3                                      40
+Second Sailor                                  39
+Lady Northumberland                            38
+Sir Oliver Martext                             38
+Menecrates                                     38
+Woodvile                                       38
+Egyptian                                       38
+Servant 2                                      37
+Helenus                                        37
+William Page                                   37
+Friar Thomas                                   37
+Patience                                       36
+Sentinels                                      36
+Third Senator                                  36
+Serving-Men                                    36
+Vintner                                        35
+Forester                                       35
+Second Musician                                35
+Varro                                          35
+Second Bandit                                  34
+Third Apparition                               34
+Seyton                                         33
+Player                                         32
+Phrynia                                        31
+Scout                                          31
+First British Captain                          31
+Second Huntsman                                31
+Townsman                                       31
+Lawyer                                         31
+Lady Montague                                  29
+Third Drawer                                   29
+First Knight                                   29
+All Servants                                   29
+Mercade                                        28
+Fourth Soldier                                 28
+Varrius                                        27
+Sir Thomas Vaughan                             27
+Children                                       27
+Hostess                                        27
+Margaret Jourdain                              27
+First Warder                                   26
+Seleucus                                       26
+Master                                         26
+Essex                                          25
+Fourth Lord                                    24
+Tutor of Rutland                               24
+Sir Nicholas Vaux                              24
+Abraham                                        24
+Second Apparition                              23
+All The People                                 23
+Second Lady                                    22
+Michael                                        22
+Commons                                        22
+All Conspirators                               22
+Nathaniel                                      22
+First Neighbour                                21
+Pursuivant                                     21
+Guard                                          21
+Garter                                         21
+Sir Anthony Denny                              21
+Lord Lovel                                     20
+Knights                                        20
+Citizen                                        20
+First Traveller                                20
+Tribunes                                       19
+Huntsman                                       19
+Young Coriolanus                               19
+First Executioner                              19
+Fourth Gentleman                               19
+Volumnius                                      18
+Daughter of Antiochus                          18
+Clerk of Chatham                               18
+Scribe                                         18
+Seventh Citizen                                18
+Second Capulet                                 18
+Sir Thomas Gargrave                            18
+Second Guard                                   17
+Dennis                                         17
+Banditti                                       17
+First Attendant                                16
+Third Neighbour                                16
+Nobleman                                       16
+Fleance                                        16
+Patrician                                      15
+Timandra                                       15
+All Lords                                      15
+Third Goth                                     15
+Dardanius                                      15
+Margarelon                                     15
+First Tribune                                  15
+Mayor of Saint Alban's                         15
+Duke of York                                   14
+Snare                                          14
+Third Groom                                    14
+Fifth Citizen                                  14
+First Apparition                               13
+Both Tribunes                                  13
+Travellers                                     13
+Sixth Citizen                                  13
+Second Serving-Man                             12
+Third Pirate                                   12
+Beadle                                         12
+Watch                                          12
+Sir John Mortimer                              11
+Another                                        11
+Leonardo                                       11
+Sheriff of Wiltshire                           11
+Court                                          11
+Second Warder                                  11
+Popilius                                       11
+Deiphobus                                      10
+All the Goths                                  10
+Justice                                        10
+Sir Walter Herbert                             10
+Mustardseed                                     9
+Second Knight                                   9
+Second Neighbour                                9
+Third Roman                                     9
+Sir  William Glansdale                          9
+Peter of Pomfret                                8
+Myrmidons                                       8
+Servants                                        8
+Gentlemen                                       8
+Mariners                                        8
+Haberdasher                                     8
+First Secretary                                 8
+Third Knight                                    8
+First Pirate                                    8
+Legate                                          8
+Several Citizens                                7
+Both Citizens                                   7
+Brothers                                        7
+Simon Shadow                                    7
+All Citizens                                    7
+Third Musician                                  7
+Outlaws                                         6
+First Roman                                     6
+Escanes                                         6
+First Messenger                                 6
+Cobweb                                          5
+Second Groom                                    5
+Some Speak                                      5
+Second Attendant                                5
+Marshal                                         5
+Peaseblossom                                    5
+Second Patrician                                5
+Players                                         4
+Soldiers                                        4
+Second Gaoler                                   4
+Philemon                                        4
+Carrier                                         4
+Thomas Wart                                     4
+Second Pirate                                   4
+First Groom                                     4
+Third Stranger                                  4
+James Gurney                                    4
+All Ladies                                      4
+First Commoner                                  4
+Third Guard                                     3
+Philip                                          3
+Attendants                                      3
+Second Roman                                    3
+Some Others                                     3
+Ostler                                          3
+Nicholas                                        2
+Taurus                                          2
+Joseph                                          2
+Thieves                                         1
